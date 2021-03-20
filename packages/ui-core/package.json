@@ -20,6 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@kbudzieiev/ui-core-button": "^1.0.2"
+    "@kbudzieiev/ui-core-button": "^1.0.2",
+    "@kbudzieiev/ui-core-input": "^1.0.0"
   }
 }
